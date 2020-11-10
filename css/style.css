@@ -183,6 +183,36 @@ p {
 .box i {
   margin-bottom: 10px;
 }
+/* create styles for use for all white main boxes */
+.block {
+  background-color: #fff;
+
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+
+/* CONNECT W/ ME CSS */
+.connect-header {
+  /* Typography */
+  font-size: 25px;
+}
+
+.connect-photo {
+  /* Box-model */
+  width: 55px;
+  height: 55px;
+}
+
+#images {
+  /* Box-model */
+  padding-top: 15px;
+
+  /* Typography */
+  text-align: center;
+}
+/* END CONNECT W/ ME */
+
 
 /* About Info */
 #about-info .info-right {
